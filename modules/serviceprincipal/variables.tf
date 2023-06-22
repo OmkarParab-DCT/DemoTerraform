@@ -1,0 +1,3 @@
+variable "spnname" {
+  type = string
+}
