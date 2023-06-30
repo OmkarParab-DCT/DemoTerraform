@@ -11,3 +11,11 @@ variable "location" {
 variable "spnname" {
   type = string
 }
+
+variable "keyvaultname" {
+  type = string
+}
+
+variable "aks_cluster_name" {
+  type = string
+}
