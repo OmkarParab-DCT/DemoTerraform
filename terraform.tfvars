@@ -1,3 +1,5 @@
 rgname = "test-rg"
 location = "eastus"
 spnname = "test-spn"
+keyvaultname = "test-keyvault-13210"
+aks_cluster_name = "test-aks-cluster"
